@@ -2,7 +2,7 @@
 ### Challenge "Exercício 01"
 
 ![Badge](https://img.shields.io/badge/version-1.0-green)
-![Badge](https://img.shields.io/badge/Development-yellow)
+![Badge](https://img.shields.io/badge/status-Done!-informational)
 
 This task is a mobile first development that has two challenges:
 1. A mobile first web page development;
